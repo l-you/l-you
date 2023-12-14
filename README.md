@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm rusted-love</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm a passionate full-stack developer</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
