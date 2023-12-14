@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I'm a passionate full-stack developer</h3>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@rusted-love" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rusted-love" height="30" width="40" /></a>
