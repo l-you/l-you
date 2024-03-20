@@ -7,9 +7,8 @@
 ###
 
 <h2 align="left">About me</h2>
-[![wakatime](https://wakatime.com/badge/user/974651e0-da03-4039-a381-641d6eed98e6.svg)](https://wakatime.com/@974651e0-da03-4039-a381-641d6eed98e6)
 ###
-
+[![wakatime](https://wakatime.com/badge/user/974651e0-da03-4039-a381-641d6eed98e6.svg)](https://wakatime.com/@974651e0-da03-4039-a381-641d6eed98e6)
 <p align="left">🎯 KISS principle + low resource usage + simple eye-care UX = happy me ❤️<br>🎲 Fun fact: I like to replacing existing code with cutting-edge technologies.<br>📚  Learning as many information as possible about this world helps making better the ins and outs of the project.</p>
 
 ###
