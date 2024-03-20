@@ -7,7 +7,9 @@
 ###
 
 <h2 align="left">About me</h2>
+
 ###
+
 <p align="left">🎯 KISS principle + low resource usage + simple eye-care UX = happy me ❤️<br>🎲 Fun fact: I like to replacing existing code with cutting-edge technologies.<br>📚  Learning as many information as possible about this world helps making better the ins and outs of the project.</p>
 
 ###
