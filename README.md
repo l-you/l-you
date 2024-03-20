@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a passionate full-stack developer with more than 5 years of experience    in UX sensitive projects.</p>
+<p align="left">I'm a passionate full-stack developer with more than 5 years of experience in revenue-generating projects.</p>
 
 ###
 
