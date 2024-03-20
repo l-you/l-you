@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Technologies I used (1 year +)</h2>
+<h2 align="left">Technologies I used at production (1 year +)</h2>
 
 ###
 
