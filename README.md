@@ -7,11 +7,12 @@
 ###
 
 <h2 align="left">About me</h2>
-<a href="https://wakatime.com/@974651e0-da03-4039-a381-641d6eed98e6"><img src="https://wakatime.com/badge/user/974651e0-da03-4039-a381-641d6eed98e6.svg" alt="Total time coded since May 27 2019" /></a>
 
 ###
 
 <p align="left">🎯 KISS principle + low resource usage + simple eye-care UX = happy me ❤️<br>🎲 Fun fact: I like to replacing existing code with cutting-edge technologies.<br>📚  Learning as many information as possible about this world helps making better the ins and outs of the project.</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-you&include_all_commits=true&show=&hide=stars,contribs&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
