@@ -7,7 +7,7 @@
 ###
 
 <h2 align="left">About me</h2>
-[![wakatime](https://wakatime.com/badge/user/974651e0-da03-4039-a381-641d6eed98e6.svg)](https://wakatime.com/@974651e0-da03-4039-a381-641d6eed98e6)
+<a href="https://wakatime.com/@974651e0-da03-4039-a381-641d6eed98e6"><img src="https://wakatime.com/badge/user/974651e0-da03-4039-a381-641d6eed98e6.svg" alt="Total time coded since May 27 2019" /></a>
 
 ###
 
