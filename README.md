@@ -12,8 +12,6 @@
 
 <p align="left">🎯 KISS principle + low resource usage + simple eye-care UX = happy me ❤️<br>🎲 Fun fact: I like to replacing existing code with cutting-edge technologies.<br>📚  Learning as many information as possible about this world helps making better the ins and outs of the project.</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-you&include_all_commits=true&show=&hide=stars,contribs&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-
 ###
 
 <h2 align="left">Technologies I used at production (1 year +)</h2>
