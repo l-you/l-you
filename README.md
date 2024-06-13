@@ -16,15 +16,16 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=l-you&show_icons=true&theme=dark&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    srcset="https://github-readme-stats.vercel.app/api?username=l-you&show_icons=true&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=l-you&show_icons=true&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    srcset="https://github-readme-stats.vercel.app/api?username=l-you&show_icons=true&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=l-you&show_icons=true&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img src="https://github-readme-stats.vercel.app/api?username=l-you&show_icons=true&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true" />
 </picture>
+
 
 ###
 
