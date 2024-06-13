@@ -42,7 +42,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/go/white/dark" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/googleads/white/dark" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/googletagmanager/white/dark" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/googletagmanager/white/dark" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/rust/white/dark" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/php/white/dark" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/phpstorm/white/dark" />
@@ -57,7 +56,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/mui/white/dark" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/homebrew/white/dark" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/linux/white/dark" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/white/dark" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/white/dark" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/shell/white/dark" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/shopify/white/dark" />
@@ -118,9 +116,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/jest/white/dark" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/torproject/white/dark" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/turborepo/white/dark" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/alpinelinux/white/dark" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/obsidian/white/dark" />
-
 
 
 </div>
