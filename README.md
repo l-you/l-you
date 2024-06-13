@@ -43,6 +43,7 @@
         <img height="50" width="50" src="https://cdn.simpleicons.org/go/white/dark" alt="Go" />
         <img height="50" width="50" src="https://cdn.simpleicons.org/rust/white/dark" alt="Rust" />
         <img height="50" width="50" src="https://cdn.simpleicons.org/webassembly/white/dark" alt="WebAssembly" />
+        <img height="50" width="50" src="https://cdn.simpleicons.org/gnubash/white/dark" alt="WebAssembly" />
       </div>
     </div>
   <div>
