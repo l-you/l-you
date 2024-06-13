@@ -34,13 +34,9 @@
 ###
 
 <div align="center">
-
   <div>
-    <h3>Web Technologies</h3>
-    <div>
-      <h4>Languages</h4>
+      <h3>Languages</h3>
       <div>
-        <img height="50" width="50" src="https://cdn.simpleicons.org/html5/white/dark" alt="HTML5" />
         <img height="50" width="50" src="https://cdn.simpleicons.org/javascript/white/dark" alt="JavaScript" />
         <img height="50" width="50" src="https://cdn.simpleicons.org/typescript/white/dark" alt="TypeScript" />
         <img height="50" width="50" src="https://cdn.simpleicons.org/php/white/dark" alt="PHP" />
@@ -49,6 +45,8 @@
         <img height="50" width="50" src="https://cdn.simpleicons.org/webassembly/white/dark" alt="WebAssembly" />
       </div>
     </div>
+  <div>
+    <h3>Web Technologies</h3>
     <div>
       <h4>Frontend Frameworks and Libraries</h4>
       <div>
@@ -85,12 +83,6 @@
 
 <div>
   <h3>Backend Technologies</h3>
-  <div>
-    <h4>Languages</h4>
-      <img height="50" width="50" src="https://cdn.simpleicons.org/php/white/dark" alt="PHP" />
-      <img height="50" width="50" src="https://cdn.simpleicons.org/go/white/dark" alt="Go" />
-      <img height="50" width="50" src="https://cdn.simpleicons.org/rust/white/dark" alt="Rust" />
-  <div>
   <div>
     <h4>Frameworks</h4>
     <div>
@@ -172,6 +164,7 @@
   <div>
     <h3>Other Technologies</h3>
     <div>
+      <img height="50" width="50" src="https://cdn.simpleicons.org/html5/white/dark" alt="HTML5" />
       <img height="50" width="50" src="https://cdn.simpleicons.org/ffmpeg/white/dark" alt="FFmpeg" />
       <img height="50" width="50" src="https://cdn.simpleicons.org/tauri/white/dark" alt="Tauri" />
       <img height="50" width="50" src="https://cdn.simpleicons.org/sharp/white/dark" alt="Sharp" />
