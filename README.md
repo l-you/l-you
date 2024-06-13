@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 KISS principle + low resource usage + simple eye-care UX = happy me ❤️<br>🎲 Fun fact: I like to replacing existing code with cutting-edge technologies.<br>📚  Learning as many information as possible about this world helps making better the ins and outs of the project.</p>
+<p align="left">🎯 KISS (Keep it simple, stupid) principle in architecture + Low resource usage + Simple eye-care UX = happy me ❤️<br>🎲 I enjoy updating existing code with cutting-edge technologies<br>📚  Learning as much information as possible about this world helps making better the ins and outs of the project.</p>
 
 ###
 
