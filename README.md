@@ -34,89 +34,65 @@
 ###
 
 <div align="center">
-<img height="50" width="50" src="https://cdn.simpleicons.org/html5/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/javascript/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/googleappsscript/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/typescript/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/goland/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/go/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/googleads/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/googletagmanager/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/rust/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/php/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/phpstorm/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/symfony/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/docker/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/meilisearch/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/eslint/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/prettier/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/autoprefixer/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/nextdotjs/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/shadcnui/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/mui/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/homebrew/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/linux/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/ubuntu/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/shell/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/shopify/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/webassembly/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/webstorm/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/redis/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/nginx/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/gin/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/graphql/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/apollographql/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/wordpress/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/github/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/githubactions/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/gitlab/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/css3/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/cssmodules/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/tailwindcss/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/purgecss/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/sass/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/nodedotjs/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/tsnode/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/bun/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/ffmpeg/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/codepen/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/codesandbox/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/mysql/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/contentful/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/fishshell/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/openssl/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/openapiinitiative/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/openai/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/cloudflare/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/apache/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/react/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/remark/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/markdown/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/sharp/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/zod/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/tauri/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/postcss/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/postgresql/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/pwa/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/googlesearchconsole/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/woocommerce/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/pnpm/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/npm/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/yarn/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/rabbitmq/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/mariadb/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/arduino/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/webpack/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/esbuild/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/reacthookform/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/mocha/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/wakatime/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/alpinelinux/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/testinglibrary/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/jest/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/torproject/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/turborepo/white/dark" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/obsidian/white/dark" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/html5/white/dark" alt="HTML5 Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/css3/white/dark" alt="CSS3 Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/javascript/white/dark" alt="JavaScript Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/typescript/white/dark" alt="TypeScript Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/php/white/dark" alt="PHP Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/wordpress/white/dark" alt="WordPress Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/graphql/white/dark" alt="GraphQL Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/apollographql/white/dark" alt="Apollo GraphQL Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/webassembly/white/dark" alt="WebAssembly Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/react/white/dark" alt="React Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/nextdotjs/white/dark" alt="Next.js Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/shadcnui/white/dark" alt="Shadcn UI Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/mui/white/dark" alt="MUI Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/symfony/white/dark" alt="Symfony Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/laravel/white/dark" alt="Laravel Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/docker/white/dark" alt="Docker Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/gin/white/dark" alt="Gin Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/tauri/white/dark" alt="Tauri Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/eslint/white/dark" alt="ESLint Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/prettier/white/dark" alt="Prettier Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/go/white/dark" alt="Go Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/rust/white/dark" alt="Rust Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/php/white/dark" alt="PHP Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/javascript/white/dark" alt="JavaScript Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/typescript/white/dark" alt="TypeScript Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/python/white/dark" alt="Python Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/ruby/white/dark" alt="Ruby Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/java/white/dark" alt="Java Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/git/white/dark" alt="Git Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/github/white/dark" alt="GitHub Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/gitlab/white/dark" alt="GitLab Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/bitbucket/white/dark" alt="Bitbucket Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/jenkins/white/dark" alt="Jenkins Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/docker/white/dark" alt="Docker Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/kubernetes/white/dark" alt="Kubernetes Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/vscode/white/dark" alt="Visual Studio Code Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/intellijidea/white/dark" alt="IntelliJ IDEA Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/jira/white/dark" alt="Jira Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/mysql/white/dark" alt="MySQL Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/postgresql/white/dark" alt="PostgreSQL Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/mongodb/white/dark" alt="MongoDB Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/redis/white/dark" alt="Redis Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/sqlite/white/dark" alt="SQLite Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/linux/white/dark" alt="Linux Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/ubuntu/white/dark" alt="Ubuntu Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/windows/white/dark" alt="Windows Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/macos/white/dark" alt="macOS Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/fedora/white/dark" alt="Fedora Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/shopify/white/dark" alt="Shopify Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/arduino/white/dark" alt="Arduino Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/npm/white/dark" alt="NPM Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/yarn/white/dark" alt="Yarn Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/pnpm/white/dark" alt="PNPM Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/esbuild/white/dark" alt="esbuild Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/webpack/white/dark" alt="Webpack Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/ffmpeg/white/dark" alt="FFmpeg Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/openssl/white/dark" alt="OpenSSL Logo" />
+    <img height="50" width="50" src="https://cdn.simpleicons.org/cloudflare/white/dark" alt="Cloud
+
 
 
 </div>
