@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a passionate full-stack developer with more than 5 years of experience in revenue-generating projects.</p>
+<p align="left">I'm a passionate full-stack developer who has been increasing business revenue since 2018. Hardened by dealing with tons of legacy code, I have an unbridled desire for innovation and improvement.</p>
 
 ###
 
