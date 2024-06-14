@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a passionate full-stack developer who has been increasing business revenue since 2018. Hardened by dealing with tons of legacy code, I have an unbridled desire for innovation and improvement.</p>
+<p align="left">I'm a passionate full-stack developer who has been increasing business revenue since 2018. <br/>Hardened by dealing with tons of legacy code, I have an unbridled desire for innovation and improvement.</p>
 
 ###
 
