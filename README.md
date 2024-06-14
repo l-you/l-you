@@ -453,6 +453,11 @@
       <source srcset="https://cdn.simpleicons.org/googleappsscript/white" media="(prefers-color-scheme: dark)">
       <img height="50" width="50" src="https://cdn.simpleicons.org/googleappsscript/dark" alt="Google Apps Script">
     </picture>
+      <picture>
+      <source srcset="https://cdn.simpleicons.org/letsencrypt" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/letsencrypt/white" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/letsencrypt" alt="Let's Encrypt">
+    </picture>
   </div>
 </div>
 
