@@ -35,149 +35,426 @@
 ###
 
 <div align="center">
+  <h3>Languages</h3>
   <div>
-      <h3>Languages</h3>
-      <div>
-        <img height="50" width="50" src="https://cdn.simpleicons.org/javascript/white/dark" alt="JavaScript" />
-        <img height="50" width="50" src="https://cdn.simpleicons.org/typescript/white/dark" alt="TypeScript" />
-        <img height="50" width="50" src="https://cdn.simpleicons.org/php/white/dark" alt="PHP" />
-        <img height="50" width="50" src="https://cdn.simpleicons.org/go/white/dark" alt="Go" />
-        <img height="50" width="50" src="https://cdn.simpleicons.org/rust/white/dark" alt="Rust" />
-        <img height="50" width="50" src="https://cdn.simpleicons.org/webassembly/white/dark" alt="WebAssembly" />
-        <img height="50" width="50" src="https://cdn.simpleicons.org/gnubash/white/dark" alt="WebAssembly" />
-      </div>
-    </div>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/javascript/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/javascript/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/javascript/white" alt="JavaScript">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/typescript/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/typescript/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/typescript/white" alt="TypeScript">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/php/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/php/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/php/white" alt="PHP">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/go/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/go/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/go/white" alt="Go">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/rust/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/rust/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/rust/white" alt="Rust">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/webassembly/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/webassembly/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/webassembly/white" alt="WebAssembly">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/gnubash/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/gnubash/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/gnubash/white" alt="Gnu Bash">
+    </picture>
+  </div>
+</div>
+<div>
+  <h3>Web Technologies</h3>
   <div>
-    <h3>Web Technologies</h3>
+    <h4>Frontend Frameworks and Libraries</h4>
     <div>
-      <h4>Frontend Frameworks and Libraries</h4>
-      <div>
-        <img height="50" width="50" src="https://cdn.simpleicons.org/react/white/dark" alt="React" />
-        <img height="50" width="50" src="https://cdn.simpleicons.org/nextdotjs/white/dark" alt="Next.js" />
-        <img height="50" width="50" src="https://cdn.simpleicons.org/mui/white/dark" alt="Material-UI" />
-        <img height="50" width="50" src="https://cdn.simpleicons.org/shadcnui/white/dark" alt="shadcn/ui" />
-      </div>
-    </div>
-    <div>
-    <div>
-      <h4>CSS Frameworks and Tools</h4>
-      <div>
-            <img height="50" width="50" src="https://cdn.simpleicons.org/css3/white/dark" alt="CSS3" />
-          <img height="50" width="50" src="https://cdn.simpleicons.org/sass/white/dark" alt="Sass" />
-          <img height="50" width="50" src="https://cdn.simpleicons.org/tailwindcss/white/dark" alt="Tailwind CSS" />
-          <img height="50" width="50" src="https://cdn.simpleicons.org/cssmodules/white/dark" alt="CSS Modules" />
-          <img height="50" width="50" src="https://cdn.simpleicons.org/purgecss/white/dark" alt="PurgeCSS" />
-          <img height="50" width="50" src="https://cdn.simpleicons.org/postcss/white/dark" alt="PostCSS" />
-          <img height="50" width="50" src="https://cdn.simpleicons.org/autoprefixer/white/dark" alt="Autoprefixer" />
-      </div>
-    </div>
-    <div>
-    <div>
-      <h4>Development Tools</h4>
-      <div>
-          <img height="50" width="50" src="https://cdn.simpleicons.org/webpack/white/dark" alt="Webpack" />
-          <img height="50" width="50" src="https://cdn.simpleicons.org/esbuild/white/dark" alt="Esbuild" />
-          <img height="50" width="50" src="https://cdn.simpleicons.org/prettier/white/dark" alt="Prettier" />
-          <img height="50" width="50" src="https://cdn.simpleicons.org/eslint/white/dark" alt="ESLint" />
-        </div>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/react/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/react/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/react/white" alt="React">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/nextdotjs/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/nextdotjs/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/mui/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/mui/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/mui/white" alt="Material-UI">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/shadcnui/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/shadcnui/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/shadcnui/white" alt="shadcn/ui">
+      </picture>
     </div>
   </div>
-
+  <div>
+    <h4>CSS Frameworks and Tools</h4>
+    <div>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/css3/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/css3/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/css3/white" alt="CSS3">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/sass/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/sass/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/sass/white" alt="Sass">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/tailwindcss/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/tailwindcss/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/tailwindcss/white" alt="Tailwind CSS">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/cssmodules/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/cssmodules/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/cssmodules/white" alt="CSS Modules">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/purgecss/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/purgecss/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/purgecss/white" alt="PurgeCSS">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/postcss/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/postcss/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/postcss/white" alt="PostCSS">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/autoprefixer/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/autoprefixer/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/autoprefixer/white" alt="Autoprefixer">
+      </picture>
+    </div>
+  </div>
+  <div>
+    <h4>Development Tools</h4>
+    <div>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/webpack/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/webpack/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/webpack/white" alt="Webpack">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/esbuild/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/esbuild/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/esbuild/white" alt="Esbuild">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/prettier/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/prettier/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/prettier/white" alt="Prettier">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/eslint/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/eslint/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/eslint/white" alt="ESLint">
+      </picture>
+    </div>
+  </div>
+</div>
 <div>
   <h3>Backend Technologies</h3>
   <div>
     <h4>Frameworks</h4>
     <div>
-        <img height="50" width="50" src="https://cdn.simpleicons.org/gin/white/dark" alt="Gin" />
-        <img height="50" width="50" src="https://cdn.simpleicons.org/symfony/white/dark" alt="Symfony" />
-        <img height="50" width="50" src="https://cdn.simpleicons.org/graphql/white/dark" alt="GraphQL" />
-        <img height="50" width="50" src="https://cdn.simpleicons.org/apollographql/white/dark" alt="Apollo GraphQL" />
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/gin/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/gin/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/gin/white" alt="Gin">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/symfony/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/symfony/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/symfony/white" alt="Symfony">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/graphql/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/graphql/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/graphql/white" alt="GraphQL">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/apollographql/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/apollographql/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/apollographql/white" alt="Apollo GraphQL">
+      </picture>
     </div>
+  </div>
   <div>
-  <div>
-      <h4>Databases</h3>
-      <div>
-          <img height="50" width="50" src="https://cdn.simpleicons.org/mysql/white/dark" alt="MySQL" />
-          <img height="50" width="50" src="https://cdn.simpleicons.org/postgresql/white/dark" alt="PostgreSQL" />
-          <img height="50" width="50" src="https://cdn.simpleicons.org/mariadb/white/dark" alt="MariaDB" />
-          <img height="50" width="50" src="https://cdn.simpleicons.org/redis/white/dark" alt="Redis" />
-        </div>
-  <div>
-  <div>
-    <h4>DevOps and CI/CD</h3>
+    <h4>Databases</h4>
     <div>
-        <img height="50" width="50" src="https://cdn.simpleicons.org/docker/white/dark" alt="Docker" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/nginx/white/dark" alt="Nginx" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/github/white/dark" alt="GitHub" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/gitlab/white/dark" alt="GitLab" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/githubactions/white/dark" alt="GitHub Actions" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/turborepo/white/dark" alt="Turborepo" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/cloudflare/white/dark" alt="Cloudflare" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/openssl/white/dark" alt="OpenSSL" />
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/mysql/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/mysql/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/mysql/white" alt="MySQL">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/postgresql/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/postgresql/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/postgresql/white" alt="PostgreSQL">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/mariadb/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/mariadb/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/mariadb/white" alt="MariaDB">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/redis/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/redis/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/redis/white" alt="Redis">
+      </picture>
     </div>
+  </div>
   <div>
+    <h4>DevOps and CI/CD</h4>
+    <div>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/docker/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/docker/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/docker/white" alt="Docker">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/nginx/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/nginx/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/nginx/white" alt="Nginx">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/github/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/github/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/github/white" alt="GitHub">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/gitlab/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/gitlab/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/gitlab/white" alt="GitLab">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/githubactions/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/githubactions/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/githubactions/white" alt="GitHub Actions">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/turborepo/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/turborepo/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/turborepo/white" alt="Turborepo">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/cloudflare/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/cloudflare/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/cloudflare/white" alt="Cloudflare">
+      </picture>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/openssl/white" media="(prefers-color-scheme: light)">
+        <source srcset="https://cdn.simpleicons.org/openssl/dark" media="(prefers-color-scheme: dark)">
+        <img height="50" width="50" src="https://cdn.simpleicons.org/openssl/white" alt="OpenSSL">
+      </picture>
+    </div>
+  </div>
+</div>
 <div>
   <h3>Tools and Platforms</h3>
   <div>
-      <img height="50" width="50" src="https://cdn.simpleicons.org/webstorm/white/dark" alt="WebStorm" />
-    <img height="50" width="50" src="https://cdn.simpleicons.org/phpstorm/white/dark" alt="PhpStorm" />
-    <img height="50" width="50" src="https://cdn.simpleicons.org/codepen/white/dark" alt="CodePen" />
-    <img height="50" width="50" src="https://cdn.simpleicons.org/codesandbox/white/dark" alt="CodeSandbox" />
-    <img height="50" width="50" src="https://cdn.simpleicons.org/wakatime/white/dark" alt="WakaTime" />
-    <img height="50" width="50" src="https://cdn.simpleicons.org/obsidian/white/dark" alt="Obsidian" />
-    <img height="50" width="50" src="https://cdn.simpleicons.org/openai/white/dark" alt="OpenAI" />
-    <img height="50" width="50" src="https://cdn.simpleicons.org/googlesearchconsole/white/dark" alt="Google Search Console" />
-    <img height="50" width="50" src="https://cdn.simpleicons.org/googleads/white/dark" alt="Google Ads" />
-    <img height="50" width="50" src="https://cdn.simpleicons.org/googletagmanager/white/dark" alt="Google Tag Manager" />
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/webstorm/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/webstorm/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/webstorm/white" alt="WebStorm">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/phpstorm/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/phpstorm/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/phpstorm/white" alt="PhpStorm">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/codepen/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/codepen/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/codepen/white" alt="CodePen">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/codesandbox/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/codesandbox/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/codesandbox/white" alt="CodeSandbox">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/wakatime/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/wakatime/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/wakatime/white" alt="WakaTime">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/obsidian/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/obsidian/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/obsidian/white" alt="Obsidian">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/openai/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/openai/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/openai/white" alt="OpenAI">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/googlesearchconsole/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/googlesearchconsole/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/googlesearchconsole/white" alt="Google Search Console">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/googleads/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/googleads/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/googleads/white" alt="Google Ads">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/googletagmanager/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/googletagmanager/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/googletagmanager/white" alt="Google Tag Manager">
+    </picture>
   </div>
 </div>
-
 <div>
-  <h3>Package Managers</h3> 
-<div>
-  <img height="50" width="50" src="https://cdn.simpleicons.org/npm/white/dark" alt="npm" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/pnpm/white/dark" alt="pnpm" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/yarn/white/dark" alt="Yarn" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/packagist/white/dark" alt="Packagist" />
+  <h3>Package Managers</h3>
+  <div>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/npm/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/npm/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/npm/white" alt="npm">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/pnpm/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/pnpm/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/pnpm/white" alt="pnpm">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/yarn/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/yarn/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/yarn/white" alt="Yarn">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/packagist/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/packagist/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/packagist/white" alt="Packagist">
+    </picture>
+  </div>
 </div>
-</div>
-
 <div>
   <h3>CMS and E-commerce</h3>
+  <div>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/wordpress/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/wordpress/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/wordpress/white" alt="WordPress">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/shopify/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/shopify/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/shopify/white" alt="Shopify">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/woocommerce/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/woocommerce/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/woocommerce/white" alt="WooCommerce">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/contentful/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/contentful/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/contentful/white" alt="Contentful">
+    </picture>
+  </div>
+</div>
 <div>
-  <img height="50" width="50" src="https://cdn.simpleicons.org/wordpress/white/dark" alt="WordPress" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/shopify/white/dark" alt="Shopify" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/woocommerce/white/dark" alt="WooCommerce" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/contentful/white/dark" alt="Contentful" />
-</div>
-</div>
-
+  <h3>Operating Systems and Shells</h3>
   <div>
-    <h3>Operating Systems and Shells</h3>
-    <div>
-      <img height="50" width="50" src="https://cdn.simpleicons.org/linux/white/dark" alt="Linux" />
-      <img height="50" width="50" src="https://cdn.simpleicons.org/ubuntu/white/dark" alt="Ubuntu" />
-      <img height="50" width="50" src="https://cdn.simpleicons.org/fishshell/white/dark" alt="Fish Shell" />
-      <img height="50" width="50" src="https://cdn.simpleicons.org/shell/white/dark" alt="Shell" />
-      <img height="50" width="50" src="https://cdn.simpleicons.org/alpinelinux/white/dark" alt="Alpine Linux" />
-    </div>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/linux/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/linux/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/linux/white" alt="Linux">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/ubuntu/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/ubuntu/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/ubuntu/white" alt="Ubuntu">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/fishshell/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/fishshell/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/fishshell/white" alt="Fish Shell">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/shell/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/shell/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/shell/white" alt="Shell">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/alpinelinux/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/alpinelinux/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/alpinelinux/white" alt="Alpine Linux">
+    </picture>
+  </div>
+</div>
+<div>
+  <h3>Other Technologies</h3>
+  <div>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/html5/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/html5/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/html5/white" alt="HTML5">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/ffmpeg/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/ffmpeg/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/ffmpeg/white" alt="FFmpeg">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/tauri/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/tauri/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/tauri/white" alt="Tauri">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/sharp/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/sharp/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/sharp/white" alt="Sharp">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/zod/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/zod/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/zod/white" alt="Zod">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/pwa/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/pwa/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/pwa/white" alt="PWA">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/arduino/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/arduino/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/arduino/white" alt="Arduino">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/remark/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/remark/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/remark/white" alt="Remark">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/markdown/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/markdown/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/markdown/white" alt="Markdown">
+    </picture>
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/googleappsscript/white" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/googleappsscript/dark" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/googleappsscript/white" alt="Google Apps Script">
+    </picture>
   </div>
 
-  <div>
-    <h3>Other Technologies</h3>
-    <div>
-      <img height="50" width="50" src="https://cdn.simpleicons.org/html5/white/dark" alt="HTML5" />
-      <img height="50" width="50" src="https://cdn.simpleicons.org/ffmpeg/white/dark" alt="FFmpeg" />
-      <img height="50" width="50" src="https://cdn.simpleicons.org/tauri/white/dark" alt="Tauri" />
-      <img height="50" width="50" src="https://cdn.simpleicons.org/sharp/white/dark" alt="Sharp" />
-      <img height="50" width="50" src="https://cdn.simpleicons.org/zod/white/dark" alt="Zod" />
-      <img height="50" width="50" src="https://cdn.simpleicons.org/pwa/white/dark" alt="PWA" />
-      <img height="50" width="50" src="https://cdn.simpleicons.org/arduino/white/dark" alt="Arduino" />
-      <img height="50" width="50" src="https://cdn.simpleicons.org/remark/white/dark" alt="Remark" />
-      <img height="50" width="50" src="https://cdn.simpleicons.org/markdown/white/dark" alt="Markdown" />
-      <img height="50" width="50" src="https://cdn.simpleicons.org/googleappsscript/white/dark" alt="Google Apps Script" />
-    </div>
-  </div>
 </div>
 
 
