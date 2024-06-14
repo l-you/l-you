@@ -99,6 +99,11 @@
         <source srcset="https://cdn.simpleicons.org/shadcnui/white" media="(prefers-color-scheme: dark)">
         <img height="50" width="50" src="https://cdn.simpleicons.org/shadcnui/dark" alt="shadcn/ui">
       </picture>
+        <picture>
+      <source srcset="https://cdn.simpleicons.org/html5/dark" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.simpleicons.org/html5/white" media="(prefers-color-scheme: dark)">
+      <img height="50" width="50" src="https://cdn.simpleicons.org/html5/dark" alt="HTML5">
+    </picture>
     </div>
   </div>
   <div>
@@ -403,11 +408,6 @@
 <div>
   <h3>Other Technologies</h3>
   <div>
-    <picture>
-      <source srcset="https://cdn.simpleicons.org/html5/dark" media="(prefers-color-scheme: light)">
-      <source srcset="https://cdn.simpleicons.org/html5/white" media="(prefers-color-scheme: dark)">
-      <img height="50" width="50" src="https://cdn.simpleicons.org/html5/dark" alt="HTML5">
-    </picture>
     <picture>
       <source srcset="https://cdn.simpleicons.org/ffmpeg/dark" media="(prefers-color-scheme: light)">
       <source srcset="https://cdn.simpleicons.org/ffmpeg/white" media="(prefers-color-scheme: dark)">
