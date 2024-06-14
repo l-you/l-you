@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 KISS (Keep it simple, stupid) principle in architecture + Low resource usage + Simple eye-care UX = happy me ❤️<br>🎲 I enjoy updating existing code with cutting-edge technologies<br>📚  Learning as much information as possible about this world helps making better the ins and outs of the project.</p>
+<p align="left">🎯 Keeping the architecture simple, stupid. Ensuring low resource usage by utilizing the most appropriate technologies. Crafting simple, eye-friendly UI and delivering a smooth UX. ❤️<br>🎲 I enjoy updating existing code with cutting-edge technologies.<br>📚  Learning as much information as possible about this world helps making better the ins and outs of the project.</p>
 
 ###
 
