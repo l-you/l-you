@@ -13,18 +13,18 @@
 <p align="left">🎯 Keeping the architecture simple, stupid. Ensuring low resource usage by utilizing the most appropriate technologies. Crafting simple, eye-friendly UI and delivering a smooth UX. ❤️<br>🎲 I enjoy updating existing code with cutting-edge technologies.<br>📚  Learning as much information as possible about this world helps making better the ins and outs of the project.</p>
 
 ###
-
-<picture>
+<h2 align="left">My GitHub Stats</h2>
+<picture id="l_you_github_stats">
     <source
-    srcset="https://github-readme-stats.vercel.app/api?username=l-you&show_icons=true&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true"
+    srcset="https://github-readme-stats.vercel.app/api?fff=sss&username=l-you&show_icons=true&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=l-you&show_icons=true&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?fff=sss&username=l-you&show_icons=true&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=l-you&show_icons=true&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?fff=sss&username=l-you&show_icons=true&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true" />
 </picture>
 
 
