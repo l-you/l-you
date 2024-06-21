@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Keeping the architecture simple, stupid. Ensuring low resource usage by utilizing the most appropriate technologies. Crafting simple, eye-friendly UI and delivering a smooth UX. ❤️<br>🎲 I enjoy updating existing code with cutting-edge technologies.<br>📚  Learning as much information as possible about this world helps making better the ins and outs of the project.</p>
+<p align="left">🎯 Keeping the architecture simple, stupid. Ensuring low resource usage by utilizing the most appropriate technologies. Crafting simple, eye-friendly UI and delivering a smooth UX. ❤️<br>🎲 I love updating existing code with cutting-edge technologies.<br>📚  Learning as much information as possible about this world helps making better the ins and outs of the project.</p>
 
 <picture>
    <source srcset="https://github-readme-stats.vercel.app/api?username=l-you&show_icons=true&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true" media="(prefers-color-scheme: light)">
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Discover the technologies that I have mastered</h2>
+<h2 align="left">Some of the technologies with which I have extensive experience</h2>
 
 ###
 
