@@ -97,6 +97,22 @@ I'm a passionate full-stack developer who has been increasing business revenue s
   </picture>
 </a>
 
+<a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/markdown/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/markdown/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/markdown/dark" alt="Markdown" title="Markdown">
+  </picture>
+</a>
+
+<a href="https://www.shell.com/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/shell/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/shell/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/shell/dark" alt="Shell" title="Shell">
+  </picture>
+</a>
+
 ### Frameworks & Libraries
 <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
   <picture>
@@ -194,6 +210,94 @@ I'm a passionate full-stack developer who has been increasing business revenue s
   </picture>
 </a>
 
+<a href="https://gin-gonic.com/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/gin/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/gin/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/gin/dark" alt="Gin" title="Gin">
+  </picture>
+</a>
+
+<a href="https://symfony.com/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/symfony/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/symfony/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/symfony/dark" alt="Symfony" title="Symfony">
+  </picture>
+</a>
+
+<a href="https://graphql.org/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/graphql/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/graphql/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/graphql/dark" alt="GraphQL" title="GraphQL">
+  </picture>
+</a>
+
+<a href="https://www.apollographql.com/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/apollographql/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/apollographql/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/apollographql/dark" alt="Apollo GraphQL" title="Apollo GraphQL">
+  </picture>
+</a>
+
+<a href="https://react-hook-form.com/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/reacthookform/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/reacthookform/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/reacthookform/dark" alt="React Hook Form" title="React Hook Form">
+  </picture>
+</a>
+
+<a href="https://lucide.dev/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/lucide/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/lucide/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/lucide/dark" alt="Lucide" title="Lucide">
+  </picture>
+</a>
+
+<a href="https://www.openapis.org/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/openapiinitiative/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/openapiinitiative/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/openapiinitiative/dark" alt="OpenAPI Initiative" title="OpenAPI Initiative">
+  </picture>
+</a>
+
+<a href="https://simpleicons.org/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/simpleicons/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/simpleicons/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/simpleicons/dark" alt="Simple Icons" title="Simple Icons">
+  </picture>
+</a>
+
+<a href="https://supabase.com/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/supabase/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/supabase/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/supabase/dark" alt="Supabase" title="Supabase">
+  </picture>
+</a>
+
+<a href="https://developers.google.com/apps-script" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/googleappsscript/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/googleappsscript/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/googleappsscript/dark" alt="Google Apps Script" title="Google Apps Script">
+  </picture>
+</a>
+
+<a href="https://github.com/remarkjs/remark" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/remark/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/remark/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/remark/dark" alt="Remark" title="Remark">
+  </picture>
+</a>
+
 ### Tools
 
 <a href="https://prettier.io/" target="_blank" rel="noopener noreferrer">
@@ -241,6 +345,118 @@ I'm a passionate full-stack developer who has been increasing business revenue s
     <source srcset="https://cdn.simpleicons.org/lefthook/dark" media="(prefers-color-scheme: light)">
     <source srcset="https://cdn.simpleicons.org/lefthook/white" media="(prefers-color-scheme: dark)">
     <img height="50" width="50" src="https://cdn.simpleicons.org/lefthook/dark" alt="Lefthook" title="Lefthook">
+  </picture>
+</a>
+
+<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/webstorm/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/webstorm/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/webstorm/dark" alt="WebStorm" title="WebStorm">
+  </picture>
+</a>
+
+<a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/phpstorm/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/phpstorm/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/phpstorm/dark" alt="PHPStorm" title="PHPStorm">
+  </picture>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/visualstudiocode/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/visualstudiocode/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/visualstudiocode/dark" alt="Visual Studio Code" title="Visual Studio Code">
+  </picture>
+</a>
+
+<a href="https://www.jetbrains.com/go/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/goland/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/goland/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/goland/dark" alt="GoLand" title="GoLand">
+  </picture>
+</a>
+
+<a href="https://codepen.io/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/codepen/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/codepen/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/codepen/dark" alt="CodePen" title="CodePen">
+  </picture>
+</a>
+
+<a href="https://codesandbox.io/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/codesandbox/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/codesandbox/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/codesandbox/dark" alt="CodeSandbox" title="CodeSandbox">
+  </picture>
+</a>
+
+<a href="https://playwright.dev/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/playwright/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/playwright/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/playwright/dark" alt="Playwright" title="Playwright">
+  </picture>
+</a>
+
+<a href="https://containers.dev/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/devcontainers/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/devcontainers/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/devcontainers/dark" alt="Dev Containers" title="Dev Containers">
+  </picture>
+</a>
+
+<a href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/phpcsfixer/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/phpcsfixer/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/phpcsfixer/dark" alt="PHP CS Fixer" title="PHP CS Fixer">
+  </picture>
+</a>
+
+<a href="https://intelephense.com/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/phpintellephense/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/phpintellephense/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/phpintellephense/dark" alt="PHP Intelephense" title="PHP Intelephense">
+  </picture>
+</a>
+
+<a href="https://www.phpmyadmin.net/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/phpmyadmin/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/phpmyadmin/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/phpmyadmin/dark" alt="phpMyAdmin" title="phpMyAdmin">
+  </picture>
+</a>
+
+<a href="https://brew.sh/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/homebrew/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/homebrew/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/homebrew/dark" alt="Homebrew" title="Homebrew">
+  </picture>
+</a>
+
+<a href="https://ollama.ai/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/ollama/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/ollama/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/ollama/dark" alt="Ollama" title="Ollama">
+  </picture>
+</a>
+
+<a href="https://meilisearch.com/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/meilisearch/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/meilisearch/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/meilisearch/dark" alt="Meilisearch" title="Meilisearch">
   </picture>
 </a>
 
@@ -568,6 +784,78 @@ I'm a passionate full-stack developer who has been increasing business revenue s
     <source srcset="https://cdn.simpleicons.org/googlesearchconsole/dark" media="(prefers-color-scheme: light)">
     <source srcset="https://cdn.simpleicons.org/googlesearchconsole/white" media="(prefers-color-scheme: dark)">
     <img height="50" width="50" src="https://cdn.simpleicons.org/googlesearchconsole/dark" alt="Google Search Console" title="Google Search Console">
+  </picture>
+</a>
+
+<a href="https://www.apple.com/macos/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/macos/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/macos/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/macos/dark" alt="macOS" title="macOS">
+  </picture>
+</a>
+
+<a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/arduino/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/arduino/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/arduino/dark" alt="Arduino" title="Arduino">
+  </picture>
+</a>
+
+<a href="https://linear.app/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/linear/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/linear/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/linear/dark" alt="Linear" title="Linear">
+  </picture>
+</a>
+
+<a href="https://www.loom.com/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/loom/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/loom/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/loom/dark" alt="Loom" title="Loom">
+  </picture>
+</a>
+
+<a href="https://yoast.com/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/yoast/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/yoast/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/yoast/dark" alt="Yoast" title="Yoast">
+  </picture>
+</a>
+
+<a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/pagespeedinsights/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/pagespeedinsights/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/pagespeedinsights/dark" alt="PageSpeed Insights" title="PageSpeed Insights">
+  </picture>
+</a>
+
+<a href="https://developers.google.com/tag-manager" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/googletagmanager/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/googletagmanager/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/googletagmanager/dark" alt="Google Tag Manager" title="Google Tag Manager">
+  </picture>
+</a>
+
+<a href="https://ads.google.com/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/googleads/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/googleads/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/googleads/dark" alt="Google Ads" title="Google Ads">
+  </picture>
+</a>
+
+<a href="https://web.dev/explore/progressive-web-apps" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/pwa/dark" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/pwa/white" media="(prefers-color-scheme: dark)">
+    <img height="50" width="50" src="https://cdn.simpleicons.org/pwa/dark" alt="PWA" title="PWA">
   </picture>
 </a>
 
