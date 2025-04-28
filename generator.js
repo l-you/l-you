@@ -1,6 +1,7 @@
 let txt = '';
 for (const item of []) {
-  txt += `### ${item.title}\n\n`;
+  txt += `
+  ### ${item.title}\n\n`;
   for (const {slug,title,link} of item.stack) {
     txt += `
 <a href="${link}" target="_blank" rel="noopener noreferrer">
