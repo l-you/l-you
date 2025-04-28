@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Programming Languages",
+    "stack": [
+      {"title": "JavaScript", "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript", "slug": "javascript"},
+      {"title": "TypeScript", "link": "https://www.typescriptlang.org/", "slug": "typescript"},
+      {"title": "PHP", "link": "https://www.php.net/", "slug": "php"},
+      {"title": "Go", "link": "https://go.dev/", "slug": "go"},
+      {"title": "Rust", "link": "https://www.rust-lang.org/", "slug": "rust"},
+      {"title": "Gnubash", "link": "https://www.gnu.org/software/bash/", "slug": "gnubash"},
+      {"title": "Google Apps Script", "link": "https://developers.google.com/apps-script", "slug": "googleappsscript"},
+      {"title": "Shell", "link": "https://en.wikipedia.org/wiki/Unix_shell", "slug": "shell"}
+    ]
+  },
+  {
+    "title": "Frontend Development",
+    "stack": [
+      {"title": "HTML5", "link": "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5", "slug": "html5"},
+      {"title": "CSS3", "link": "https://developer.mozilla.org/en-US/docs/Web/CSS", "slug": "css3"},
+      {"title": "SASS", "link": "https://sass-lang.com/", "slug": "sass"},
+      {"title": "Tailwind CSS", "link": "https://tailwindcss.com/", "slug": "tailwindcss"},
+      {"title": "CSS Modules", "link": "https://github.com/css-modules/css-modules", "slug": "cssmodules"},
+      {"title": "PurgeCSS", "link": "https://purgecss.com/", "slug": "purgecss"},
+      {"title": "PostCSS", "link": "https://postcss.org/", "slug": "postcss"},
+      {"title": "Autoprefixer", "link": "https://github.com/postcss/autoprefixer", "slug": "autoprefixer"},
+      {"title": "PWA", "link": "https://web.dev/progressive-web-apps/", "slug": "pwa"},
+      {"title": "React", "link": "https://react.dev/", "slug": "react"},
+      {"title": "Next.js", "link": "https://nextjs.org/", "slug": "nextdotjs"},
+      {"title": "MUI", "link": "https://mui.com/", "slug": "mui"},
+      {"title": "Shadcn UI", "link": "https://ui.shadcn.dev/", "slug": "shadcnui"},
+      {"title": "React Hook Form", "link": "https://react-hook-form.com/", "slug": "reacthookform"},
+      {"title": "Lucide Icons", "link": "https://lucide.dev/", "slug": "lucide"},
+      {"title": "Simple Icons", "link": "https://simpleicons.org/", "slug": "simpleicons"}
+    ]
+  },
+  {
+    "title": "Backend Development",
+    "stack": [
+      {"title": "Node.js", "link": "https://nodejs.org/", "slug": "nodedotjs"},
+      {"title": "Symfony", "link": "https://symfony.com/", "slug": "symfony"},
+      {"title": "Gin", "link": "https://gin-gonic.com/", "slug": "gin"},
+      {"title": "Payload CMS", "link": "https://payloadcms.com/", "slug": "payloadcms"},
+      {"title": "GraphQL", "link": "https://graphql.org/", "slug": "graphql"},
+      {"title": "Apollo GraphQL", "link": "https://www.apollographql.com/", "slug": "apollographql"},
+      {"title": "OpenAPI Initiative", "link": "https://www.openapis.org/", "slug": "openapiinitiative"}
+    ]
+  },
+  {
+    "title": "Databases & Caching",
+    "stack": [
+      {"title": "MySQL", "link": "https://www.mysql.com/", "slug": "mysql"},
+      {"title": "PostgreSQL", "link": "https://www.postgresql.org/", "slug": "postgresql"},
+      {"title": "MariaDB", "link": "https://mariadb.org/", "slug": "mariadb"},
+      {"title": "MongoDB", "link": "https://www.mongodb.com/", "slug": "mongodb"},
+      {"title": "Redis", "link": "https://redis.io/", "slug": "redis"},
+      {"title": "SurrealDB", "link": "https://surrealdb.com/", "slug": "surrealdb"},
+      {"title": "Meilisearch", "link": "https://www.meilisearch.com/", "slug": "meilisearch"},
+      {"title": "Supabase", "link": "https://supabase.com/", "slug": "supabase"},
+      {"title": "phpMyAdmin", "link": "https://www.phpmyadmin.net/", "slug": "phpmyadmin"}
+    ]
+  },
+  {
+    "title": "DevOps, Infrastructure & Hosting",
+    "stack": [
+      {"title": "Docker", "link": "https://www.docker.com/", "slug": "docker"},
+      {"title": "Podman", "link": "https://podman.io/", "slug": "podman"},
+      {"title": "Traefik Proxy", "link": "https://traefik.io/traefik/", "slug": "traefikproxy"},
+      {"title": "Nginx", "link": "https://nginx.org/", "slug": "nginx"},
+      {"title": "Cloudflare", "link": "https://www.cloudflare.com/", "slug": "cloudflare"},
+      {"title": "Let's Encrypt", "link": "https://letsencrypt.org/", "slug": "letsencrypt"},
+      {"title": "OpenSSL", "link": "https://www.openssl.org/", "slug": "openssl"},
+      {"title": "Github Actions", "link": "https://github.com/features/actions", "slug": "githubactions"},
+      {"title": "Turborepo", "link": "https://turbo.build/repo", "slug": "turborepo"},
+      {"title": "Homebrew", "link": "https://brew.sh/", "slug": "homebrew"},
+      {"title": "Lefthook", "link": "https://evilmartians.com/chronicles/lefthook-automate-your-git-hooks", "slug": "lefthook"}
+    ]
+  },
+  {
+    "title": "Version Control & Collaboration",
+    "stack": [
+      {"title": "GitHub", "link": "https://github.com/", "slug": "github"},
+      {"title": "GitLab", "link": "https://gitlab.com/", "slug": "gitlab"}
+    ]
+  },
+  {
+    "title": "Package Managers & Registries",
+    "stack": [
+      {"title": "npm", "link": "https://www.npmjs.com/", "slug": "npm"},
+      {"title": "pnpm", "link": "https://pnpm.io/", "slug": "pnpm"},
+      {"title": "yarn", "link": "https://yarnpkg.com/", "slug": "yarn"},
+      {"title": "Packagist", "link": "https://packagist.org/", "slug": "packagist"}
+    ]
+  },
+  {
+    "title": "CMS & E-commerce",
+    "stack": [
+      {"title": "WordPress", "link": "https://wordpress.org/", "slug": "wordpress"},
+      {"title": "Shopify", "link": "https://www.shopify.com/", "slug": "shopify"},
+      {"title": "WooCommerce", "link": "https://woocommerce.com/", "slug": "woocommerce"},
+      {"title": "Contentful", "link": "https://www.contentful.com/", "slug": "contentful"}
+    ]
+  },
+  {
+    "title": "Utilities & Tools",
+    "stack": [
+      {"title": "Prettier", "link": "https://prettier.io/", "slug": "prettier"},
+      {"title": "ESLint", "link": "https://eslint.org/", "slug": "eslint"},
+      {"title": "Webpack", "link": "https://webpack.js.org/", "slug": "webpack"},
+      {"title": "Esbuild", "link": "https://esbuild.github.io/", "slug": "esbuild"},
+      {"title": "Zod", "link": "https://zod.dev/", "slug": "zod"},
+      {"title": "Sharp", "link": "https://sharp.pixelplumbing.com/", "slug": "sharp"},
+      {"title": "FFmpeg", "link": "https://ffmpeg.org/", "slug": "ffmpeg"},
+      {"title": "Tauri", "link": "https://tauri.app/", "slug": "tauri"},
+      {"title": "Markdown", "link": "https://daringfireball.net/projects/markdown/", "slug": "markdown"},
+      {"title": "Remark", "link": "https://remark.js.org/", "slug": "remark"}
+    ]
+  },
+  {
+    "title": "Analytics & Marketing",
+    "stack": [
+      {"title": "Google Search Console", "link": "https://search.google.com/search-console/", "slug": "googlesearchconsole"},
+      {"title": "Google Ads", "link": "https://ads.google.com/", "slug": "googleads"},
+      {"title": "Google Tag Manager", "link": "https://tagmanager.google.com/", "slug": "googletagmanager"},
+      {"title": "PageSpeed Insights", "link": "https://pagespeed.web.dev/", "slug": "pagespeedinsights"},
+      {"title": "Yoast SEO", "link": "https://yoast.com/", "slug": "yoast"}
+    ]
+  },
+  {
+    "title": "Operating Systems & Shells",
+    "stack": [
+      {"title": "Linux", "link": "https://www.kernel.org/", "slug": "linux"},
+      {"title": "Ubuntu", "link": "https://ubuntu.com/", "slug": "ubuntu"},
+      {"title": "Alpine Linux", "link": "https://alpinelinux.org/", "slug": "alpinelinux"},
+      {"title": "MacOS", "link": "https://www.apple.com/macos/", "slug": "macos"},
+      {"title": "Fish Shell", "link": "https://fishshell.com/", "slug": "fishshell"}
+    ]
+  },
+  {
+    "title": "Platforms, Apps & Integrations",
+    "stack": [
+      {"title": "OpenAI", "link": "https://openai.com/", "slug": "openai"},
+      {"title": "Ollama", "link": "https://ollama.ai/", "slug": "ollama"},
+      {"title": "Telegram", "link": "https://telegram.org/", "slug": "telegram"},
+      {"title": "Linear", "link": "https://linear.app/", "slug": "linear"},
+      {"title": "Loom", "link": "https://www.loom.com/", "slug": "loom"}
+    ]
+  },
+  {
+    "title": "Development Environments",
+    "stack": [
+      {"title": "WebStorm", "link": "https://www.jetbrains.com/webstorm/", "slug": "webstorm"},
+      {"title": "PHPStorm", "link": "https://www.jetbrains.com/phpstorm/", "slug": "phpstorm"},
+      {"title": "VSCode", "link": "https://code.visualstudio.com/", "slug": "vscode"},
+      {"title": "Goland", "link": "https://www.jetbrains.com/go/", "slug": "goland"},
+      {"title": "CodePen", "link": "https://codepen.io/", "slug": "codepen"},
+      {"title": "CodeSandbox", "link": "https://codesandbox.io/", "slug": "codesandbox"},
+      {"title": "WakaTime", "link": "https://wakatime.com/", "slug": "wakatime"},
+      {"title": "Obsidian", "link": "https://obsidian.md/", "slug": "obsidian"}
+    ]
+  },
+  {
+    "title": "Hardware Related",
+    "stack": [
+      {"title": "Arduino", "link": "https://www.arduino.cc/", "slug": "arduino"}
+    ]
+  }
+]
