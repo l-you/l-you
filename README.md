@@ -1,6 +1,6 @@
 # Welcome 👋
 
-I'm a passionate full-stack developer who has been increasing business revenue since 2018. <br/>Hardened by dealing with tons of legacy code, I have an unbridled desire for innovation and improvement.
+I'm a passionate full-stack developer who has been increasing business revenue since 2018.💸🤫 <br/>Hardened by dealing with tons of legacy code, I have an unbridled desire for innovation and improvement.🚀
 
 ## About me
 - 🎯 Keeping the architecture simple, stupid. Ensuring low resource usage by utilizing the most appropriate technologies. Crafting simple, eye-friendly UI and delivering a smooth UX. ❤️
