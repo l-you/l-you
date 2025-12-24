@@ -13,9 +13,8 @@ I'm a passionate full-stack developer who has been increasing business revenue s
 
 </picture>
 <picture>
-   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=l-you" media="(prefers-color-scheme: light)">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-you&theme=dark" />
-
+	<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=l-you&langs_count=6" media="(prefers-color-scheme: light)">
+  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-you&langs_count=6&theme=dark" />
 </picture>
 
 ## Some of the technologies, tools and services with which I have extensive experience
