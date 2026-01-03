@@ -1,11 +1,15 @@
-# Welcome 👋
+# @l-you
 
-I'm a passionate full-stack developer who has been increasing business revenue since 2018.💸🤫 <br/>Hardened by dealing with tons of legacy code, I have an unbridled desire for innovation and improvement.🚀
+A Full-Stack Web Engineer generating revenue since 2018. Hardened by tons of legacy code.
 
-## About me
-- 🎯 Keeping the architecture simple, stupid. Ensuring low resource usage by utilizing the most appropriate technologies. Crafting simple, eye-friendly UI and delivering a smooth UX. ❤️
-- 🎲 I love updating existing code with cutting-edge technologies.
-- 📚  Learning as much information as possible about this world helps making better the ins and outs of the project.
+## My Philosophy
+
+- **KISS Principle** · "Keep It Simple, Stupid!". Building straightforward solutions that are easy to understand and maintain, avoiding unnecessary complexity.
+- **UI/UX Focus** · Crafting simple, eye-friendly UI and delivering a smooth UX. Every pixel matters.
+- **Innovation Driven** · Replacing outdated code with cutting-edge technologies.
+- **Codebase Rescuer** · Solving problems nobody wants to solve.
+- **Details Matter** · Paying attention to small details which, as practice shows, increase the conversion rate significantly.
+- **Lifestyle & Software** · Learning a variety of skills in life enables the brain to create better software solutions.
 
 <picture>
    <source srcset="https://github-readme-stats-steel-omega.vercel.app/api?username=l-you&show_icons=true&hide=stars&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true" media="(prefers-color-scheme: light)">
@@ -17,14 +21,14 @@ I'm a passionate full-stack developer who has been increasing business revenue s
   	<img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=l-you&langs_count=6&theme=dark" />
 </picture>
 
-## Some of the technologies, tools and services with which I have extensive experience
+## Technologies I've Worked With
 
 ### Programming Languages
 
 <table><tbody><tr>
 <td align="center" valign="middle">
 				 <a href="https://www.php.net/" target="_blank" align="center" rel="noopener noreferrer">
-					<picture>
+					<picture>	
 						<source srcset="./icons/dark/php.svg" media="(prefers-color-scheme: dark)">
 					 	<img height="40" width="40" src="./icons/php.svg" alt="PHP" title="PHP"/>
 					</picture>
