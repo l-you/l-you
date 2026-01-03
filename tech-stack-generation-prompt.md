@@ -3,4 +3,6 @@ I want to make a very usefull readme with this. Those group should be user firie
 (HTML 5 is not a programming language. Be careful with such technologies.)
 
 Make a result in the following JSON format. Array that containers objects withe following properties: 
+```
 [{"title":"<Technology title>","stack":[{"title":"Technology 1","link":"link to githjub repository or website representig the technology","slug":"naming provided by list I gave to you"}]}]
+```
