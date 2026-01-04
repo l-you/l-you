@@ -1,6 +1,6 @@
 # @l-you
 
-A Full-Stack Web Engineer generating revenue since 2018. Hardened by tons of legacy code.
+A Full-Stack Engineer generating revenue since 2018. Hardened by tons of legacy code.
 
 ## My Philosophy
 
