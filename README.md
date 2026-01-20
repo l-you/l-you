@@ -11,6 +11,8 @@ A Full-Stack Engineer generating revenue since 2018. Hardened by tons of legacy 
 - **Details Matter** · Paying attention to small details which, as practice shows, increase the conversion rate significantly.
 - **Lifestyle & Software** · Learning a variety of skills in life enables the brain to create better software solutions.
 
+
+## GitHub Stats
 <picture>
    <source srcset="https://github-readme-stats-steel-omega.vercel.app/api?username=l-you&show_icons=true&hide=stars&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true" media="(prefers-color-scheme: light)">
   <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=l-you&show_icons=true&hide=stars&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark" />
@@ -21,8 +23,14 @@ A Full-Stack Engineer generating revenue since 2018. Hardened by tons of legacy 
   	<img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=l-you&langs_count=6&theme=dark" />
 </picture>
 
-## Technologies I've Worked With
+## What I prefer for the new projects
+- GO
+- React + Typescript
+- PostgreSQL
+- Rust-based third party packages
 
+## Technologies I've Worked With
+I have been working with PHP since 2018, and as of 2026, it is still my main occupation.
 ### Programming Languages
 
 <table><tbody><tr>
