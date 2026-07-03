@@ -5,7 +5,7 @@ A Full-Stack Engineer generating revenue since 2018. Hardened by tons of legacy 
 ## My Philosophy
 
 - **KISS Principle** · "Keep It Simple, Stupid!". Building straightforward solutions that are easy to understand and maintain, avoiding unnecessary complexity.
-- **UI/UX Focus** · Crafting simple, eye-friendly UI and delivering a smooth UX. Every pixel matters.
+- **UI/UX Simplicity Focus** · Crafting simple, eye-friendly interfaces with smooth, intuitive user experiences. Every pixel matters. Complexity should stay under the hood.
 - **Innovation Driven** · Replacing outdated code with cutting-edge technologies.
 - **Codebase Rescuer** · Solving problems nobody wants to solve.
 - **Details Matter** · Paying attention to small details which, as practice shows, increase the conversion rate significantly.
