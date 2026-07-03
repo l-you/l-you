@@ -9,7 +9,7 @@ A Full-Stack Engineer generating revenue since 2018. Hardened by tons of legacy 
 - **Innovation Driven** · Replacing outdated code with cutting-edge technologies.
 - **Codebase Rescuer** · Solving problems nobody wants to solve.
 - **Details Matter** · Paying attention to small details which, as practice shows, increase the conversion rate significantly.
-- **Lifestyle & Software** · Learning a variety of skills in life enables the brain to create better software solutions.
+- **Lifestyle & Software** · Learning a variety of life skills quietly trains the brain to navigate life better and build stronger software.
 
 
 ## GitHub Stats
