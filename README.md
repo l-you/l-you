@@ -13,24 +13,27 @@ A Full-Stack Engineer generating revenue since 2018. Hardened by tons of legacy 
 
 
 ## GitHub Stats
+<p >
 <picture>
    <source srcset="https://github-readme-stats-steel-omega.vercel.app/api?username=l-you&show_icons=true&hide=stars&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true" media="(prefers-color-scheme: light)">
   <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=l-you&show_icons=true&hide=stars&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark" />
 
 </picture>
+</p>
+<p >
 <picture>
-	<source srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=l-you&langs_count=6" media="(prefers-color-scheme: light)">
-  	<img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=l-you&langs_count=6&theme=dark" />
+	<source srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=l-you&langs_count=4" media="(prefers-color-scheme: light)">
+	<img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=l-you&langs_count=4&theme=dark" />
 </picture>
+</p>
+<details>
+<summary><b>Some technologies I have built with</b></summary>
 
-## What I prefer for the new projects
-- GO
-- React + Typescript
-- PostgreSQL
-- Rust-based third party packages
+<br>
 
-## Technologies I've Worked With
-I have been working with PHP since 2018, and as of 2026, it is still my main occupation.
+
+> This list is partial and made to be "visually entertaining". Every item below comes from hands-on project work. There are many more stacks I have had to deal with through work, research, and personal projects.
+
 ### Programming Languages
 
 <table><tbody><tr>
@@ -454,10 +457,10 @@ I have been working with PHP since 2018, and as of 2026, it is still my main occ
 				 <a href="https://github.com/features/actions" target="_blank" align="center" rel="noopener noreferrer">
 					<picture>
 						<source srcset="./icons/dark/githubactions.svg" media="(prefers-color-scheme: dark)">
-					 	<img height="40" width="40" src="./icons/githubactions.svg" alt="Github Actions" title="Github Actions"/>
+						<img height="40" width="40" src="./icons/githubactions.svg" alt="GitHub Actions" title="GitHub Actions"/>
 					</picture>
 				 </a><br/>
-				<a href="https://github.com/features/actions" target="_blank" align="center" rel="noopener noreferrer">Github Actions</a>
+				<a href="https://github.com/features/actions" target="_blank" align="center" rel="noopener noreferrer">GitHub Actions</a>
 </td>
 <td align="center" valign="middle">
 				 <a href="https://evilmartians.com/chronicles/lefthook-automate-your-git-hooks" target="_blank" align="center" rel="noopener noreferrer">
@@ -955,3 +958,5 @@ I have been working with PHP since 2018, and as of 2026, it is still my main occ
 				<a href="https://www.arduino.cc/" target="_blank" align="center" rel="noopener noreferrer">Arduino</a>
 </td>
 </tr></tbody></table>
+
+</details>
