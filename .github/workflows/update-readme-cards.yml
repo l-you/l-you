@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "17 0 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,49 +13,81 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6.0.2
+      - uses: actions/checkout@v7
 
       - name: Generate stats card (light)
-        uses: stats-organization/github-readme-stats-action@v2.0.1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide=stars&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          core_version: 2.1.3
 
       - name: Generate stats card (dark)
-        uses: stats-organization/github-readme-stats-action@v2.0.1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide=stars&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          core_version: 2.1.3
 
       - name: Generate top languages card (light)
-        uses: stats-organization/github-readme-stats-action@v2.0.1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&langs_count=4
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          core_version: 2.1.3
 
       - name: Generate top languages card (dark)
-        uses: stats-organization/github-readme-stats-action@v2.0.1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&langs_count=4&theme=dark
           path: profile/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          core_version: 2.1.3
+
+      - name: Validate generated cards
+        shell: bash
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import sys
+          import xml.etree.ElementTree as ET
+
+          cards = (
+              "profile/stats-light.svg",
+              "profile/stats-dark.svg",
+              "profile/top-langs-light.svg",
+              "profile/top-langs-dark.svg",
+          )
+          failed = False
+
+          for card in cards:
+              try:
+                  root = ET.fromstring(Path(card).read_text(encoding="utf-8"))
+              except (OSError, UnicodeError, ET.ParseError) as error:
+                  print(f"::error file={card}::Generated card is not valid SVG: {error}")
+                  failed = True
+                  continue
+
+              test_ids = {element.get("data-testid") for element in root.iter()}
+              if (
+                  root.tag != "{http://www.w3.org/2000/svg}svg"
+                  or "main-card-body" not in test_ids
+                  or "message" in test_ids
+              ):
+                  print(f"::error file={card}::Generated card contains an error or unexpected structure")
+                  failed = True
+
+          if failed:
+              sys.exit(1)
+          PY
 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git diff --cached --quiet && exit 0
-          git commit -m "Update README cards"
+          git commit -m "Update README cards" || exit 0
           git push
