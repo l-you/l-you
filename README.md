@@ -13,17 +13,16 @@ A Full-Stack Engineer generating revenue since 2018. Hardened by tons of legacy 
 
 
 ## GitHub Stats
-<p >
+<p>
 <picture>
-   <source srcset="https://github-readme-stats-steel-omega.vercel.app/api?username=l-you&show_icons=true&hide=stars&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true" media="(prefers-color-scheme: light)">
-  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=l-you&show_icons=true&hide=stars&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark" />
-
+  <source srcset="./profile/stats-light.svg" media="(prefers-color-scheme: light)">
+  <img src="./profile/stats-dark.svg" alt="GitHub stats" />
 </picture>
 </p>
-<p >
+<p>
 <picture>
-	<source srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=l-you&langs_count=4" media="(prefers-color-scheme: light)">
-	<img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=l-you&langs_count=4&theme=dark" />
+  <source srcset="./profile/top-langs-light.svg" media="(prefers-color-scheme: light)">
+  <img src="./profile/top-langs-dark.svg" alt="Top languages" />
 </picture>
 </p>
 <details>
