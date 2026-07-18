@@ -67,17 +67,24 @@ jobs:
               try:
                   root = ET.fromstring(Path(card).read_text(encoding="utf-8"))
               except (OSError, UnicodeError, ET.ParseError) as error:
-                  print(f"::error file={card}::Generated card is not valid SVG: {error}")
+                  print(f"::error file={card}::{card}: generated card is not valid SVG: {error}")
                   failed = True
                   continue
 
               test_ids = {element.get("data-testid") for element in root.iter()}
-              if (
-                  root.tag != "{http://www.w3.org/2000/svg}svg"
-                  or "main-card-body" not in test_ids
-                  or "message" in test_ids
-              ):
-                  print(f"::error file={card}::Generated card contains an error or unexpected structure")
+              problems = []
+              if root.tag != "{http://www.w3.org/2000/svg}svg":
+                  problems.append("root element is not SVG")
+              if "main-card-body" not in test_ids:
+                  problems.append("expected card body is missing")
+
+              for element in root.iter():
+                  if element.get("data-testid") == "message":
+                      message = " ".join("".join(element.itertext()).split()).removesuffix(" OK")
+                      problems.append(f"renderer error: {message}")
+
+              if problems:
+                  print(f"::error file={card}::{card}: {'; '.join(problems)}")
                   failed = True
 
           if failed:
