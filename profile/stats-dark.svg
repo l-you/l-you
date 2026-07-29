@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Liakhovskyi Vladyslav&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Commits  : 16692, Total PRs: 307, Total PRs Merged: 289, Merged PRs Percentage: 94.14, Total Issues: 87, Total Discussions Started: 23, Total Discussions Answered: 7, Contributed to (last year): 28</desc>
+        <desc id="descId">Total Commits  : 16694, Total PRs: 307, Total PRs Merged: 289, Merged PRs Percentage: 94.14, Total Issues: 87, Total Discussions Started: 23, Total Discussions Answered: 7, Contributed to (last year): 28</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 103.4041685372459;
+        stroke-dashoffset: 103.40416798915778;
       }
     }
   
